@@ -7,10 +7,6 @@ test3
 test4hjkdkjfhksdfklsdfkjskdjf
 test4hjkdkjfhksdfklsdfkjskdjf
 
-
-
-Git has a mutable index called stage.
-
 Git has a mutable index called stage(add).
 
 
